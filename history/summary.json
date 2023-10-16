@@ -58,18 +58,20 @@
     "url": "https://www.meeussengalerieoptiek.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.meeussengalerieoptiek.be.ico",
     "slug": "www-meeussengalerieoptiek-be",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 536,
-    "timeWeek": 386,
-    "timeMonth": 360,
-    "timeYear": 360,
-    "dailyMinutesDown": {}
+    "time": 362,
+    "timeDay": 464,
+    "timeWeek": 387,
+    "timeMonth": 362,
+    "timeYear": 362,
+    "dailyMinutesDown": {
+      "2023-10-16": 0
+    }
   },
   {
     "name": "localboutiquebelgium.com",
