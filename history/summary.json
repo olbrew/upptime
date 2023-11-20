@@ -80,19 +80,19 @@
     "url": "https://localboutiquebelgium.com",
     "icon": "https://icons.duckduckgo.com/ip3/localboutiquebelgium.com.ico",
     "slug": "localboutiquebelgium-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 780,
-    "timeWeek": 322,
-    "timeMonth": 277,
-    "timeYear": 279,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 278,
+    "timeDay": 500,
+    "timeWeek": 309,
+    "timeMonth": 275,
+    "timeYear": 278,
     "dailyMinutesDown": {
-      "2023-11-20": 0
+      "2023-11-20": 8
     }
   },
   {
