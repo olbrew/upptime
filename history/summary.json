@@ -62,12 +62,12 @@
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 559,
     "timeDay": 380,
     "timeWeek": 562,
-    "timeMonth": 621,
+    "timeMonth": 625,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2023-10-20": 30,
@@ -80,9 +80,9 @@
     "url": "https://localboutiquebelgium.com",
     "icon": "https://icons.duckduckgo.com/ip3/localboutiquebelgium.com.ico",
     "slug": "localboutiquebelgium-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 322,
     "timeMonth": 277,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-20": 0
+    }
   },
   {
     "name": "Test Broken Site",
