@@ -80,7 +80,7 @@
     "url": "https://localboutiquebelgium.com",
     "icon": "https://icons.duckduckgo.com/ip3/localboutiquebelgium.com.ico",
     "slug": "localboutiquebelgium-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.01%",
     "uptimeDay": "96.28%",
     "uptimeWeek": "99.27%",
@@ -92,6 +92,7 @@
     "timeMonth": 900,
     "timeYear": 453,
     "dailyMinutesDown": {
+      "2024-05-20": 0,
       "2024-05-19": 53,
       "2024-05-16": 20,
       "2024-05-04": 16,
