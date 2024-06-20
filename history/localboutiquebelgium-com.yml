@@ -1,7 +1,7 @@
 url: https://localboutiquebelgium.com
-status: up
-code: 200
-responseTime: 1540
-lastUpdated: 2024-06-19T23:13:08.011Z
+status: down
+code: 500
+responseTime: 256
+lastUpdated: 2024-06-20T01:56:34.894Z
 startTime: 2023-10-06T15:03:17.872Z
 generator: Upptime <https://github.com/upptime/upptime>
