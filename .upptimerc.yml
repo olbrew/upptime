@@ -11,8 +11,6 @@ sites:
     url: https://dermatologiediest.be
   - name: www.meeussengalerieoptiek.be
     url: https://www.meeussengalerieoptiek.be
-  - name: localboutiquebelgium.com
-    url: https://localboutiquebelgium.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
