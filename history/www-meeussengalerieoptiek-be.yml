@@ -1,7 +1,7 @@
 url: https://www.meeussengalerieoptiek.be
-status: up
-code: 200
-responseTime: 1264
-lastUpdated: 2025-02-05T14:50:36.732Z
+status: down
+code: 429
+responseTime: 428
+lastUpdated: 2025-02-05T18:18:08.988Z
 startTime: 2023-10-06T15:03:17.019Z
 generator: Upptime <https://github.com/upptime/upptime>
