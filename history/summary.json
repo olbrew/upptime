@@ -4,18 +4,20 @@
     "url": "https://olbrew.me",
     "icon": "https://icons.duckduckgo.com/ip3/olbrew.me.ico",
     "slug": "olbrew-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
+    "time": 282,
     "timeDay": 433,
     "timeWeek": 347,
     "timeMonth": 286,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-20": 0
+    }
   },
   {
     "name": "drphilbe.com",
