@@ -4,19 +4,19 @@
     "url": "https://olbrew.me",
     "icon": "https://icons.duckduckgo.com/ip3/olbrew.me.ico",
     "slug": "olbrew-me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "75.51%",
+    "uptimeWeek": "96.50%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.93%",
     "time": 282,
-    "timeDay": 433,
-    "timeWeek": 347,
-    "timeMonth": 286,
+    "timeDay": 398,
+    "timeWeek": 349,
+    "timeMonth": 289,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2026-01-20": 0
+      "2026-01-20": 353
     }
   },
   {
