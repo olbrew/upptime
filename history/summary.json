@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/olbrew.me.ico",
     "slug": "olbrew-me",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 316,
-    "timeDay": 419,
-    "timeWeek": 391,
-    "timeMonth": 366,
-    "timeYear": 329,
+    "timeDay": 134,
+    "timeWeek": 348,
+    "timeMonth": 359,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2026-01-20": 353
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 130,
-    "timeWeek": 139,
+    "timeDay": 161,
+    "timeWeek": 140,
     "timeMonth": 202,
-    "timeYear": 245,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 470,
-    "timeDay": 419,
-    "timeWeek": 342,
-    "timeMonth": 408,
+    "timeDay": 476,
+    "timeWeek": 389,
+    "timeMonth": 414,
     "timeYear": 476,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 703,
-    "timeWeek": 449,
-    "timeMonth": 449,
-    "timeYear": 572,
+    "time": 580,
+    "timeDay": 528,
+    "timeWeek": 471,
+    "timeMonth": 457,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2025-12-05": 23
     }
