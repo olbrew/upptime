@@ -60,10 +60,10 @@
     "url": "https://www.meeussengalerieoptiek.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.meeussengalerieoptiek.be.ico",
     "slug": "www-meeussengalerieoptiek-be",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 546,
@@ -72,7 +72,8 @@
     "timeMonth": 539,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-12-05": 23
+      "2025-12-05": 23,
+      "2026-10-27": 1
     }
   },
   {
